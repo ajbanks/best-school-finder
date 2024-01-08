@@ -1,0 +1,14 @@
+gradio
+openai
+pandas
+numpy
+aws-cdk-lib
+awscli
+python-dotenv
+requests
+constructs>=10.0.0
+pandas
+sentence-transformers==0.3.7
+langchain==0.0.148
+tiktoken
+faiss-cpu
