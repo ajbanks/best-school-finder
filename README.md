@@ -1,4 +1,15 @@
+## Helping UK parents find the best school
 
+Created this repo explore how AI might improve children’s education, by
+using our education data and oversight to help parents select the very best school for their
+child and explore their options.
+
+Schools are overseen by a range of bodies, such as Ofsted (who produce detailed inspect
+reports) and the Department for Education (DfE) who produce statistics and league tables.
+
+This project explores how to help parents select the best
+school for their child using data from Ofsted and the DfE. I have built a chatbot that helps parents query
+School records on their local schools
 
 ## Local Deployment
 
